@@ -8,7 +8,7 @@ app = Tk()
 app.config(bg="#550000")
 app.geometry("800x600")
 def quit:
-  sys.exit("messagebox.showinfo(sys.platform"))
+  sys.exit("messagebox.showinfo(sys.platform")
   
 label = tkinter.Label(app, text="Hello I'am the sage", font="Arial 14 bold")
 label.pack(padx=10, pady=10, ipady=5)
