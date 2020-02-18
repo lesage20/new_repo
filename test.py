@@ -4,6 +4,7 @@
 import tkinter
 
 app = Tk()
+#ce code est bizarre qui fait ça??
 
 
 label = tkinter.Label(app, text="Hello I'am the sage", font="Arial 14 bold")
