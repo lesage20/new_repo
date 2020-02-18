@@ -13,4 +13,7 @@ label.pack(padx=10, pady=10, ipady=5)
 label = tkinter.Label(app, text="Me is Kevin", font="Arial 14 bold")
 label.pack(padx=10, pady=10, ipady=5)
 
+bouton=Button(fenetre, text="Fermer", command=fenetre.quit)
+bouton.pack()
+
 app.mainloop()
