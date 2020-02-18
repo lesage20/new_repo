@@ -12,7 +12,7 @@ app.geometry("800x600")
 
 #fonctions
 def quit():
-  sys.exit("messagebox.showinfo(sys.platform"))
+  sys.exit("messagebox.showinfo(sys.platform")
   
   
 # creation des widgets
